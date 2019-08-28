@@ -2,6 +2,10 @@
 ``
 如有问题请联系我们：(dailyprove@163.com)
 ``
+# Please Select Language 请选择语言
+[![](https://github.com/Jasonli08/Proves.github.io/blob/master/th%20(1).jpg)](https://jasonli08.github.io/MeiRiYiZheng.github.io/)  
+[![](https://github.com/Jasonli08/Proves.github.io/blob/master/th.jpg)](https://jasonli08.github.io/DailyProve.github.io/)  
+
 # 今日证明  
 
 [![](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)](https://github.com/Jasonli08/dailyprove.github.io/raw/master/Proves%201908/20190821_055540.jpg)
