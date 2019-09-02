@@ -8,8 +8,8 @@
 
 # 今日证明  
 
-[![](https://github.com/Jasonli08/DailyProve.github.io/raw/master/Proves%201909/294872639788421899.jpg)](https://github.com/Jasonli08/DailyProve.github.io/raw/master/Proves%201909/294872639788421899.jpg)
-``Last update：[2019-09-02]``  
+[![](https://github.com/Jasonli08/DailyProve.github.io/raw/master/Proves%201909/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190902191128.jpg)](https://github.com/Jasonli08/DailyProve.github.io/raw/master/Proves%201909/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190902191128.jpg)
+``Last update：[2019-09-02]`` 
 
 # 介绍
 
